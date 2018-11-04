@@ -65,5 +65,9 @@ bitcore.deps.Buffer = Buffer;
 bitcore.deps.elliptic = require('elliptic');
 bitcore.deps._ = require('lodash');
 
+// Dogecoin
+bitcore.deps.scryptsy = require('scryptsy');
+
+
 // Internal usage, exposed for testing/advanced tweaking
 bitcore.Transaction.sighash = require('./lib/transaction/sighash');
