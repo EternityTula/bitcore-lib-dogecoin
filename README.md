@@ -1,4 +1,4 @@
-Bitcore Library
+Bitcore Dogecoin Library
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-lib.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-lib)
@@ -14,12 +14,9 @@ Bitcoin is a powerful new peer-to-peer platform for the next generation of finan
 ## Get Started
 
 ```
-npm install bitcore-lib
+npm install github:buraktt/bitcore-lib-dogecoin
 ```
 
-```
-bower install bitcore-lib
-```
 
 ## Documentation
 
